@@ -1,0 +1,4 @@
+implicit_datasets/
+.env/
+.ipynb_checkpoints/
+docker/model.sav
