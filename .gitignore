@@ -2,3 +2,5 @@ implicit_datasets/
 .env/
 .ipynb_checkpoints/
 docker/model.sav
+docker-als.zip
+similar-movies.tsv
